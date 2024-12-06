@@ -1,0 +1,5 @@
+
+requirements/
+*.pyc
+__pycache__/
+data/
