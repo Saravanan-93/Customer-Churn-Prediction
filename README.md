@@ -20,6 +20,7 @@ Business Insights: Provide actionable insights to reduce churn rates.
 
 Telecom-Churn-Prediction/
 │
+
 ├── Source_code/                 # Python scripts and notebooks  
 ├── data/                        # Dataset files  
 ├── Telecom-Churn-Presentation.pptx  # Project presentation  
