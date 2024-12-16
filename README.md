@@ -14,6 +14,9 @@ Business Insights: Provide actionable insights to reduce churn rates.
     - NumPy
     - Matplotlib
     - Scikit-learn
+    - Seaborn
+    - Klib
+    - SHAP
 * Tools: Jupyter Notebook
 
 ## Project Structure
