@@ -10,10 +10,10 @@ Business Insights: Provide actionable insights to reduce churn rates.
 ## Technologies Used
 * Programming Languages: Python
 * Libraries:
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
+    - Pandas
+    - NumPy
+    - Matplotlib
+    - Scikit-learn
 * Tools: Jupyter Notebook
 
 ## Project Structure
